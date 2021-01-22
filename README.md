@@ -12,3 +12,4 @@ This is a small project wherein I built a web form which takes in different para
   * Pluggable with new algorithms.
   * Pluggable and user defined API.
   * Minimize Total Cost of Ownership.
+

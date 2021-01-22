@@ -13,3 +13,13 @@ This is a small project wherein I built a web form which takes in different para
   * Pluggable and user defined API.
   * Minimize Total Cost of Ownership.
 
+# Release History
+* 0.1.1
+  * CHANGE : Rename function executeCommand() to executeCommandAtGivenBaseUrl()
+  
+* 0.1.0
+  * The first proper release
+  * ADD: Included a script - <script src="http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"></script> which contains preloaded form functions
+  
+* 0.0.1
+  * Work in progress

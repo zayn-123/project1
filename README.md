@@ -19,7 +19,7 @@ This is a small project wherein I built a web form which takes in different para
   
 * 0.1.0
   * The first proper release
-  * ADD: Included a script - <script src="http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js"></script> which contains preloaded form functions
+  * ADD: Included a script - http://login2explore.com/jpdb/resources/js/0.0.3/jpdb-commons.js which contains preloaded form functions
   
 * 0.0.1
   * Work in progress
